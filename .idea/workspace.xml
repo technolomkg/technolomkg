@@ -11,6 +11,13 @@
     <option name="INCOMING_CHECK_STRATEGY" value="Always" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\projekt_filse\RomaTechnolom\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="2qkdsJkt3BblQSD0VpM39wb75oC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,7 +26,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -35,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735210712362</updated>
-      <workItem from="1735210717442" duration="2292000" />
+      <workItem from="1735210717442" duration="3544000" />
     </task>
     <servers />
   </component>
