@@ -2,7 +2,427 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cfd2eb8-e74f-41b1-a78f-c64d56c4b6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.68af88db.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/css/main.68af88db.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.b1633125.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.b1633125.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.b1633125.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/OIG4.bRQyA27fOQHol3m8z.z5.2016774e129d0c6eced6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/beck.a9c429d9d296cc29de5d.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/free-icon-contact-4450258.b57e2fb4cb3cdda978a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/free-icon-email-482138.20101c61c3e5ada3f345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/free-icon-home-7543165.c822baa48b2c4105e856.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/lom-600x218.ccdd495062e65b189846.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/sub-header-background.62450362c08b6535a380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/media/Баннер-2-1024x392-1.f1158df12e9993faccb3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653886593655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653886672872.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653985262922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653985309479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653985386823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/--e1653986037931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/-конденсаторов-TESLA-аналог-К52-1-e1572348683639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/-конденсаторов-К10-17-23-43-керамический-корпус-e1572340526389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/-матер--e1653886495796 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/-матер--e1653886495796.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/-норм--e1653985425725.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/12a14da6-5fc3-41b9-9c5e-6c97b815ac3c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/1500-v--e1653886425670.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/155-импорт.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/155-советская.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/201--e1653985902715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/239442249.0.208x208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/2Т866А.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/30--e1653886740439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/30-ор--e1653886709932.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/311-e1653985813906.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/312-e1653985694672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/50--e1653886385420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/602б--e1653985659367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/602ж--e1653985619854.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/603--e1653985860562.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/603б--e1653985773931.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/610верт--e1653985575348.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/630-e1653985738243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/8aa19012-0221-46fc-8474-a59b60ac9c2b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/920-верт-сред-e1653985467432.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/GSM-плат-стандарт-scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/e8c74a5e-d53a-4b8f-aea7-e8f34dc937c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/fml-gr--e1653886776327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/fml-or--e1653886814674.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/hqdefault-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/new-kondensator-23-600x600-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-177-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-251.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-264.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-273.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-274.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-276.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-281.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-282 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-282.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-285.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-289.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-292.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-307.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-315 (1).gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-315.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-318.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-324.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-330.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-331-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-334.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-336-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-345.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/radiolom-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/unnamed-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/v--e1653985186323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/К10-28-Н30-1М0-1МОВ-1м5-2м2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КМ-зел.-D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ-802.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ-809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ-970А.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ909.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/КТ930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-CD-ROM-плат.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-видеокарт.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-желтой-ОЗУ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-звуковыхсетевых-карт.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-TESLA-аналог-К52-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-Б18-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К-53-1-мелких.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К-53-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-17-23-43-пластмассовый-корпус.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-23-Н30-D-пластмассовый-корпус.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-28-47-Н30-D-Н50-Н90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-47-Н30-25В-50В-1мо-1м5-2м2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-47-Н30-25В-50В.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-47-Н90-25В-50В-1мо-1м5-2м2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К10-48-Н30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-2-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-2С-c-чёрной-крышкой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-К52-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-КМ-Болгария.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-КМ-рыж.-Н50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-МЛЗ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Скупка-конденсаторов-ЭТ-ЭТН.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Снимок-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/Снимок.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/ХДД.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/банкоматы.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/белая-память.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/желтые-дорожки-gsm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/импортных-транзисторов-микросхем.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/кноп-без-корпуса.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/куча-мобильных-телефонов-старый-и-новая-модель-146404300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/мелк.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/монитор-платы.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/одна-сторона-желтая-gsm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/периферия.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/планшеты-без-корпуса.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/платы-игровых-автоматов.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/платы-с-жк-тв-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/платы-советские.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/ргк15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utilse/сенсорные-без-корп.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_tsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_tsserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_typingsInstaller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.decorators.legacy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.date.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.disposable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.iterator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typesMap.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typesMap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +441,16 @@
     </option>
   </component>
   <component name="ProjectId" id="2qkdsJkt3BblQSD0VpM39wb75oC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -46,7 +469,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735210712362</updated>
-      <workItem from="1735210717442" duration="4490000" />
+      <workItem from="1735210717442" duration="6012000" />
     </task>
     <servers />
   </component>
@@ -57,6 +480,9 @@
         <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1735211829075">
