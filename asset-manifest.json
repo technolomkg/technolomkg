@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/technolomkg/static/css/main.68af88db.css",
+    "main.js": "/technolomkg/static/js/main.b1633125.js",
+    "static/media/OIG4.bRQyA27fOQHol3m8z.z5.png": "/technolomkg/static/media/OIG4.bRQyA27fOQHol3m8z.z5.2016774e129d0c6eced6.png",
+    "static/media/Баннер-2-1024x392-1.webp": "/technolomkg/static/media/Баннер-2-1024x392-1.f1158df12e9993faccb3.webp",
+    "static/media/beck.webp": "/technolomkg/static/media/beck.a9c429d9d296cc29de5d.webp",
+    "static/media/lom-600x218.webp": "/technolomkg/static/media/lom-600x218.ccdd495062e65b189846.webp",
+    "static/media/free-icon-contact-4450258.png": "/technolomkg/static/media/free-icon-contact-4450258.b57e2fb4cb3cdda978a3.png",
+    "static/media/sub-header-background.jpg": "/technolomkg/static/media/sub-header-background.62450362c08b6535a380.jpg",
+    "static/media/free-icon-home-7543165.png": "/technolomkg/static/media/free-icon-home-7543165.c822baa48b2c4105e856.png",
+    "static/media/free-icon-email-482138.png": "/technolomkg/static/media/free-icon-email-482138.20101c61c3e5ada3f345.png",
+    "index.html": "/technolomkg/index.html",
+    "main.68af88db.css.map": "/technolomkg/static/css/main.68af88db.css.map",
+    "main.b1633125.js.map": "/technolomkg/static/js/main.b1633125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68af88db.css",
+    "static/js/main.b1633125.js"
+  ]
+}
