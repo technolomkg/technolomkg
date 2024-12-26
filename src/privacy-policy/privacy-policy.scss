@@ -1,0 +1,107 @@
+.privacy-policy{
+  padding-top: 60px;
+  &__banner {
+    height: 270px;
+    background: url("../buying_boards/img__buying/sub-header-background.jpg") center / cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1 {
+      color: #FFF;
+      text-align: center;
+      font-family: "Fira Sans", sans-serif;
+      font-size: 47px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 48.4px; /* 112.558% */
+    }
+
+    p {
+      margin-top: 20px;
+      color: #CCC;
+      text-align: center;
+      font-family: "Fira Sans", sans-serif;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 12px; /* 109.091% */
+      display: flex;
+      align-items: center;
+
+      a {
+        color: #ffffff;
+        text-align: center;
+        font-family: "Fira Sans", sans-serif;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 12px; /* 109.091% */
+        display: flex;
+        align-items: center;
+      }
+
+      span {
+        margin: 2px 7px 0 7px;
+        font-size: 14px;
+        font-family: none !important;
+      }
+
+      img {
+        margin-right: 5px;
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+  &__info{
+    padding: 30px 60px;
+    display: flex;
+    &__line{
+      width: 1px;
+      height: 1205.469px;
+      flex-shrink: 0;
+      background: #E8E8E8;
+      margin: 0 20px ;
+    }
+    &__left{
+      h2{
+        color: #333;
+        font-family: "Fira Sans",sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 33px; /* 110% */
+        margin-bottom: 11px;
+      }
+      h3{
+        color: #333;
+        font-family: "Fira Sans",sans-serif;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24.2px; /* 110% */
+        margin-bottom: 12px;
+      }
+      p{
+        color: #16B9A7;
+        font-family: "Fira Sans",sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px; /* 142.857% */
+        margin-bottom: 20px;
+      }
+    }
+    &__right{
+
+      &__line_h3{
+        width: 254px;
+        height: 1px;
+        background: #E8E8E8;
+        margin: 0 0 -20px 0;
+      }
+    }
+  }
+}
