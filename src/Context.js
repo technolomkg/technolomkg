@@ -9,7 +9,6 @@ export const CustomContext = createContext();
 
 export const Context = (props) => {
     const product = [
-
         {
             "id": "1",
             "img": "utilse/--e1653985386823.jpg",
@@ -2513,8 +2512,6 @@ export const Context = (props) => {
             "category": "18",
             "price_old": ""
         }
-
-
     ];
     const form = useRef();
     const [status, setStatus] = useState('');
